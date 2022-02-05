@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1644078519471,
+  "timestamp": 1644078655035,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -612,7 +612,7 @@
     "/assets/scss/material-kit/variables/_utilities.scss": "97e898c127def52fa779d96daf44668ebc8ea084",
     "/assets/scss/material-kit/variables/_virtual-reality.scss": "aff2a3cbc2752f0e4d406153658735c1999ac58f",
     "/favicon.ico": "beb277cb1de57ac71255903565e48712c321ee46",
-    "/index.html": "179ee8ede4ac1e90a0982e6406b10e580ff2650a",
+    "/index.html": "521a2b12c1e5fc40516d4e44edeb02af291b9aa6",
     "/main.5875fa6dfd3b4e1c.js": "e5155676fa033e7a96611c085dfd82900cd6fe59",
     "/manifest.webmanifest": "919dcfff98b25b0ce9f4466634d3b1d541c1bd85",
     "/polyfills.21e6c73b2319c2da.js": "bf423e15e825ac2f1242279eaf72102721a01bd0",
