@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1644077463990,
+  "timestamp": 1644077591633,
   "index": "lawassistweb/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "lawassistweb/favicon.ico",
         "lawassistweb/index.html",
-        "lawassistweb/main.5875fa6dfd3b4e1c.js",
+        "lawassistweb/main.19c2c41ee6b170dc.js",
         "lawassistweb/manifest.webmanifest",
         "lawassistweb/polyfills.21e6c73b2319c2da.js",
         "lawassistweb/runtime.b41182beb4b127c6.js",
@@ -612,8 +612,8 @@
     "lawassistweb/assets/scss/material-kit/variables/_utilities.scss": "97e898c127def52fa779d96daf44668ebc8ea084",
     "lawassistweb/assets/scss/material-kit/variables/_virtual-reality.scss": "aff2a3cbc2752f0e4d406153658735c1999ac58f",
     "lawassistweb/favicon.ico": "beb277cb1de57ac71255903565e48712c321ee46",
-    "lawassistweb/index.html": "0236b9cff1c46e9529d9694ca9a94eaf2d3aae67",
-    "lawassistweb/main.5875fa6dfd3b4e1c.js": "e5155676fa033e7a96611c085dfd82900cd6fe59",
+    "lawassistweb/index.html": "e79243b29c4ae81a3a17137bbf200f5ef91df954",
+    "lawassistweb/main.19c2c41ee6b170dc.js": "ee0a990f311d23f62f733689b243fba8d6b0baa6",
     "lawassistweb/manifest.webmanifest": "919dcfff98b25b0ce9f4466634d3b1d541c1bd85",
     "lawassistweb/polyfills.21e6c73b2319c2da.js": "bf423e15e825ac2f1242279eaf72102721a01bd0",
     "lawassistweb/runtime.b41182beb4b127c6.js": "728086e5fa6935b17ae3716bf3dc57a82608c288",
